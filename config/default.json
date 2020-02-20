@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@practicecluster-ghnuo.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "canela"
+}
