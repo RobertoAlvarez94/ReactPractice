@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://admin:admin@practicecluster-ghnuo.azure.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "canela"
+  "jwtSecret": "canela",
+  "githubClientId": "4b4b2f7fd96d8a0bd3ad",
+  "githubSecret": "f81c4409c4c23ed6d96677be733b2eb835ce6734"
 }
