@@ -81,4 +81,4 @@ AddExperience.propTypes = {
 };
 
 
-export default connect(null, { addExperience })(AddExperience);
+export default connect(null, { addExperience })(withRouter(AddExperience));
