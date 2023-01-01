@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bcryptjs": "^2.4.3",
-    "config": "^3.3.0",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "express-validator": "^6.4.0",
     "gravatar": "^1.8.0",
@@ -28,7 +28,7 @@
     "react-moment": "^0.9.7",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.0",
+    "react-scripts": "^5.0.1",
     "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
